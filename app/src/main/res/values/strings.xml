@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamImage</string>
+    <string name="lblClickCamera">Camera</string>
+</resources>
